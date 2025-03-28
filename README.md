@@ -1,0 +1,5 @@
+![AWS USER ACCOUNT](images/aws-user-account.png)
+![GIT INSTALLATION](images/git-installation-confirmation.png)
+![ORACLE VIRTUALBOX](images/oracle-virtualbox.png)
+![UBUNTU LOGIN](images/ubuntu-login.png)
+![VSCODE WELCOME PAGE](images/vscode-welcome.png)
